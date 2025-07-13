@@ -83,8 +83,6 @@ https://streaming.astrakhan.ru/telplushd/playlist.m3u8
 https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
 #EXTINF:-1 tvg-id="SONGTVRussia.ru" tvg-name="SONGTV Russia" tvg-logo="https://i.imgur.com/nM7LbmV.png" group-title="music",SONGTV Russia
 https://songtv.hls.iptvdc.com/web-russia/index.m3u8
-#EXTINF:-1 tvg-id="Salyam.ru" tvg-name="Salyam" tvg-logo="https://i.imgur.com/FfULLr1.png" group-title="Undefined",Salyam
-https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
 #EXTINF:-1 tvg-id="S1.ru" tvg-name="S1" tvg-logo="https://i.imgur.com/chNBF5t.png" group-title="Undefined",S1
 https://sitv.ru/hls/stv.m3u8
 #EXTINF:-1 tvg-id="RUTV.ru" tvg-name="RU.TV" tvg-logo="https://i.imgur.com/Z7HUU7V.png" group-title="music",RU.TV
