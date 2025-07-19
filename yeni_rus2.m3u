@@ -239,10 +239,6 @@ https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 http://31.148.48.15/KVN_TV/index.m3u8
 #EXTINF:-1 tvg-id="Kineko.ru" tvg-name="Kineko" tvg-logo="https://i.imgur.com/Otfvlmf.png" group-title="movies",Kineko
 http://194.143.148.28:8080/KINEKO/index.m3u8
-#EXTINF:-1 tvg-id="FeniksplusKino.ru" tvg-name="Feniks plus Kino" tvg-logo="https://i.imgur.com/S9OPMLE.png" group-title="movies",Feniks plus Kino
-http://31.148.48.15/Feniks_plus_kino/index.m3u8
-#EXTINF:-1 tvg-id="Evrokino.ru" tvg-name="Evrokino" tvg-logo="https://i.imgur.com/8LPtPf6.png" group-title="movies",Evrokino
-http://31.148.48.15/Evrokino/index.m3u8
 #EXTINF:-1 tvg-id="Cinema.ru" tvg-name="Cinema" tvg-logo="https://i.imgur.com/b5e9qUA.png" group-title="movies",Cinema
 http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BelRos.ru" tvg-name="BelRos" tvg-logo="https://i.imgur.com/tUF33HD.png" group-title="general",BelRos
