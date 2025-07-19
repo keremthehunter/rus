@@ -197,8 +197,6 @@ https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 https://cdn.ntv.ru/th_hit/playlist.m3u8
 #EXTINF:-1 tvg-id="NTVSeries.ru" tvg-name="NTV Series" tvg-logo="https://i.imgur.com/QdVa8tl.png" group-title="series",NTV Series
 https://cdn.ntv.ru/th_serial/playlist.m3u8
-#EXTINF:-1 tvg-id="NTVLaw.ru" tvg-name="NTV Law" tvg-logo="https://i.imgur.com/3ChnWGg.png" group-title="",NTV Law
-https://cdn.ntv.ru/th_pravo/playlist.m3u8
 #EXTINF:-1 tvg-id="NTS.ru" tvg-name="NTS" tvg-logo="https://i.imgur.com/skkDR7q.png" group-title="general",NTS
 https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NTM.ru" tvg-name="NTM" tvg-logo="https://i.imgur.com/AH50pGT.png" group-title="general",NTM
