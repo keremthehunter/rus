@@ -237,3 +237,19 @@ http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8
 https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 #EXTINF:-1 tvg-id="KVNTV.ru" tvg-name="KVN TV" tvg-logo="https://i.imgur.com/Vw3LFLX.png" group-title="comedy",KVN TV
 http://31.148.48.15/KVN_TV/index.m3u8
+#EXTINF:-1 tvg-id="Kineko.ru" tvg-name="Kineko" tvg-logo="https://i.imgur.com/Otfvlmf.png" group-title="movies",Kineko
+http://194.143.148.28:8080/KINEKO/index.m3u8
+#EXTINF:-1 tvg-id="FeniksplusKino.ru" tvg-name="Feniks plus Kino" tvg-logo="https://i.imgur.com/S9OPMLE.png" group-title="movies",Feniks plus Kino
+http://31.148.48.15/Feniks_plus_kino/index.m3u8
+#EXTINF:-1 tvg-id="Evrokino.ru" tvg-name="Evrokino" tvg-logo="https://i.imgur.com/8LPtPf6.png" group-title="movies",Evrokino
+http://31.148.48.15/Evrokino/index.m3u8
+#EXTINF:-1 tvg-id="Cinema.ru" tvg-name="Cinema" tvg-logo="https://i.imgur.com/b5e9qUA.png" group-title="movies",Cinema
+http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BelRos.ru" tvg-name="BelRos" tvg-logo="https://i.imgur.com/tUF33HD.png" group-title="general",BelRos
+https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 tvg-id="Arkhyz24.ru" tvg-name="Arkhyz 24" tvg-logo="https://i.imgur.com/blAtdkJ.png" group-title="Undefined",Arkhyz 24
+https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
+#EXTINF:-1 tvg-id="Almaznyykray.ru" tvg-name="Almaznyy kray" tvg-logo="https://i.imgur.com/zErXTdF.png" group-title="general",Almaznyy kray
+https://stream.almaz-media.tv:8080/hls/576.m3u8
+#EXTINF:-1 tvg-id="86.ru" tvg-name="86" tvg-logo="https://i.imgur.com/0dRS4Cb.png" group-title="general",86
+https://sitv.ru/hls/s86.m3u8
