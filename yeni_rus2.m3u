@@ -149,8 +149,6 @@ https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
 http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
 #EXTINF:-1 tvg-id="scifi.ru" tvg-name=".sci-fi" tvg-logo="https://i.imgur.com/nSSUHcg.png" group-title="science",.sci-fi
 http://178.124.179.122:8088/Sci-Fi/index.m3u8
-#EXTINF:-1 tvg-id="Sarafan.ru" tvg-name="Sarafan" tvg-logo="https://i.imgur.com/u4q1rMT.png" group-title="",Sarafan
-http://95.142.88.250:80/sarafan/index.m3u8
 #EXTINF:-1 tvg-id="SamaraGIS.ru" tvg-name="Samara-GIS" tvg-logo="https://samaragis.ru/wp-includes/images/logo.png" group-title="",Samara-GIS
 http://45.67.57.9:8080/new/new/playlist.m3u8
 #EXTINF:-1 tvg-id="S1.ru" tvg-name="S1" tvg-logo="https://i.imgur.com/chNBF5t.png" group-title="",S1
